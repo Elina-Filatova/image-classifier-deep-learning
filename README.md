@@ -20,6 +20,12 @@ This notebook focuses on training machine learning models. It includes data prep
 - 🔨 **Model Training:** Implementation of deep learning algorithms.
 - 🔬 **Hyperparameter Tuning:** Optimization of model parameters.
 - 🔍 **Performance Metrics:** Detailed evaluation of model performance.
+- 🚀 **Deployment: Hosting on Hugging Face with Streamlit**
+  - The trained model is deployed using **Streamlit**, a Python library for building interactive web applications.
+  - Hosted on **Hugging Face Spaces**, providing an accessible and user-friendly interface for making predictions on new data.
+  - [Visit the deployed app on Hugging Face Spaces here](https://huggingface.co/spaces/el-filatova/image-classifier-deep-learning) 🌐
+
+
 
 ## 🍎🍓 `EDA_fruits_vegetables.ipynb`
 
